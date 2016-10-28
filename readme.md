@@ -1,0 +1,1 @@
+exercise for functional-javascript from nodeschool.io and javascript function testing playground
